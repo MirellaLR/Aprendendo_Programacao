@@ -1,0 +1,14 @@
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\bin\Debug\net8.0\Aprendendo Programação.exe
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\bin\Debug\net8.0\Aprendendo Programação.deps.json
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\bin\Debug\net8.0\Aprendendo Programação.runtimeconfig.json
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\bin\Debug\net8.0\Aprendendo Programação.dll
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\bin\Debug\net8.0\Aprendendo Programação.pdb
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.AssemblyInfoInputs.cache
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.AssemblyInfo.cs
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.csproj.CoreCompileInputs.cache
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.dll
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\refint\Aprendendo Programação.dll
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.pdb
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\Aprendendo Programação.genruntimeconfig.cache
+C:\Users\Mirella\Desktop\Aprendendo Programação\Teste\Aprendendo Programação\Aprendendo Programação\obj\Debug\net8.0\ref\Aprendendo Programação.dll
